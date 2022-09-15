@@ -1,4 +1,4 @@
-# **Feed Me Easy**
+# **Easy Shopping**
 Aplicación móvil desarrollada en Flutter la cual consiste en que los usuarios pueden comprar productos o adquirir servicios de tiendas cercanas o asociadas a su colonia o el lugar donde viven. También, dueños de tiendas pueden tener su propio rol dentro de la aplicación, el cual les permite agregar información de su tienda, agregar y actualizar sus productos y ver el registro de sus ventas.
 
 El almacenamiento de la información así como de imágenes se realizó usando Firestore y Storage de Firebase. Para la autenticación de los usuarios, se usó la Autenticación por Google, también por medio de Firebase.
